@@ -15,7 +15,7 @@ use schema retail;
                          --|
                     --dim_date
 
---By schema design all table i can copy all the tables from raw table and then analysis
+--By schema design all tables, i will copy all the tables from raw table and then analysis
 
 -------------------------------
 -- FACT TABLE
